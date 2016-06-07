@@ -1,0 +1,6 @@
+framework module FNBJSocialFeed {
+  umbrella header "FNBJSocialFeed-umbrella.h"
+
+  export *
+  module * { export * }
+}

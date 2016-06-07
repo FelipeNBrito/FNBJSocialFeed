@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>SchemeUserState</key>
+	<dict>
+		<key>FNBJSocialFeed.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
+		<key>Pods-FNBJSocialFeed_Example.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
+		<key>Pods-FNBJSocialFeed_Tests.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
+	</dict>
+	<key>SuppressBuildableAutocreation</key>
+	<dict>
+		<key>15BC42A6AA0177932F87EA52DF5DF284</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>5C93ABEA173B3BB5C36F9C06FB854DFD</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>EF45BDEF5200CC8EC8DDBBA8023C12D8</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+	</dict>
+</dict>
+</plist>

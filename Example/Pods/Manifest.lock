@@ -1,0 +1,16 @@
+PODS:
+  - FNBJSocialFeed (0.1.0)
+
+DEPENDENCIES:
+  - FNBJSocialFeed (from `../`)
+
+EXTERNAL SOURCES:
+  FNBJSocialFeed:
+    :path: ../
+
+SPEC CHECKSUMS:
+  FNBJSocialFeed: e2afe0133bc03e215b09d31b7bf278b6e73ba2f6
+
+PODFILE CHECKSUM: ad3370e6af6d31aae2087aa356be92bfa47ae988
+
+COCOAPODS: 1.0.0

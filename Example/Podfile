@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'FNBJSocialFeed_Example' do
+  pod 'FNBJSocialFeed', :path => '../'
+
+  target 'FNBJSocialFeed_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
